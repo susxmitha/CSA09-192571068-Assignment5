@@ -442,6 +442,3 @@ The experiments demonstrated the performance benefits of buffered file operation
 The project combines implementation, experimental investigation, measured results, and supporting evidence to demonstrate the concepts covered under CO5.
 
 ---
-**Assignment:** Assignment 5 – CO5  
-**Student:** S. Susmitha  
-**Register Number:** 192571068
